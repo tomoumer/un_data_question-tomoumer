@@ -1,3 +1,7 @@
+## NSS Project 1
+
+This was the very first project that I worked on as part of the Data Science (DS 6) bootcamp with [Nashville Software School](https://nashvillesoftwareschool.com). It was originally hosted on https://github.com/nss-data-science-cohort-6/un_data_question-tomoumer as part of working on pandas and python.
+
 ## **Data Question 1: An Exploration of UN data**
 In this project, you'll be doing some exploratory analysis on two country-level metrics, gross domestic product (GDP) per capita and overall life expectancy. After completing the guided practice section, you will have a chance to find some additional data and do some more exploring of your own.
 
